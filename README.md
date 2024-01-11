@@ -5,7 +5,7 @@
 
 <div align="left">
 
-# 💫 About Me:
+# About Me 😎:
 🔭 I’m currently Studying & Working at ITM Skills University & LetsUpgrade.<br>🤝 I’m looking to collaborate on projects based on Python and C++<br>🌱 I’m currently learning Python, C++, C and HTML.<br>💬 Ask me about Future tech, UIUX, Ai and DataScience.<br>👨‍💻 All of my projects are available at https://github.com/PremThakareitm<br>📫 How to reach me 2023.premt@isu.ac.in<br>⚡ Fun fact I love watching Movies.
 
 
