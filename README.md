@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Namaste!🙏+;+I'm+Prem+Thakare!👋;" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Namaste+🙏+;+I'm+Prem+Thakare+👋;" /></h1>
 <h3 align="center">Aspiring Computer Science Engineer from India 🇮🇳</h3>
 <h1 align="center"></h1>
 <br/>
@@ -44,17 +44,15 @@
 </div>
 </p>
 
-# 📊 GitHub Stats:
+<h3 align="left">GitHub Stats 📊 :</h3>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremThakareitm&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=PremThakareitm&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PremThakareitm&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremThakareitm&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=PremThakareitm&bg_color=fff&color=FF9933&line=008000&point=007FFF&area=true&area_color=007FFF&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
-### 🔝 My Contributed:
 
-</p>
-
-<div align="center">
-  <h2> My Contributions </h2>
+<h3 align="left">My Contributed 🔝 :</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PremThakareitm/PremThakareitm/output/github-contribution-grid-snake.svg" />
 
@@ -64,11 +62,8 @@
 </div>
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=PremThakareitm&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=PremThakareitm&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premthakareitm" alt="premthakareitm" /></a> </p>
 
+<img align="center" alt="GIF" src="https://github.com/PremThakareitm/PremThakareitm/blob/main/gif/Flash%20Forward.gif" height="30%" width="30%"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
