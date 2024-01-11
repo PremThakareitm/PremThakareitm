@@ -1,19 +1,49 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Namaste!🙏+;+I'm+Prem+Thakare!👋;" /></h1>
 <h3 align="center">Aspiring Computer Science Engineer from India 🇮🇳</h3>
 <h1 align="center"></h1>
+<br/>
 
+<img align="right" alt="GIF" src="https://github.com/PremThakareitm/PremThakareitm/blob/main/gif/Man_Machine%20Animation.gif" height="30%" width="30%"/>
 
 <div align="left">
 
-# About Me 😎:
-🔭 I’m currently Studying & Working at ITM Skills University & LetsUpgrade.<br>🤝 I’m looking to collaborate on projects based on Python and C++<br>🌱 I’m currently learning Python, C++, C and HTML.<br>💬 Ask me about Future tech, UIUX, Ai and DataScience.<br>👨‍💻 All of my projects are available at https://github.com/PremThakareitm<br>📫 How to reach me 2023.premt@isu.ac.in<br>⚡ Fun fact I love watching Movies.
+<div align="left">
+
+<h3 align="left">About Me 😎 :</h3>
+🎓 I’m currently Studying & Working at ITM Skills University & LetsUpgrade.<br>🤝 I’m looking to collaborate on projects based on Python and C++<br>🌱 I’m currently learning Python, C++, C and HTML.<br>🧐 I am also interested in Future tech, UIUX, Ai and DataScience.<br>👨‍💻 All of my projects are available at https://github.com/PremThakareitm<br>📫 How to reach me 2023.premt@isu.ac.in<br>⚡ I enjoy learning new things,playing games and watching movies.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prem.thakare_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PremThakare) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/premthakare96680) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PremThakare_) 
+<h3 align="left">Socials 🌐 :</h3>
+<div align="center">
+  <a href="https://www.instagram.com/prem.thakare_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=premthakare96680@gmail.com@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/prem-thakare-7b1377289/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/PremThakare_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+
+<h3 align="left">Tech Stack 💻 :</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,vscode,mysql&theme=light" />
+    <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
+    <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
+    <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
+  </a>
+
+</div>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PremThakareitm&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PremThakareitm&theme=flag-india&hide_border=false)<br/>
