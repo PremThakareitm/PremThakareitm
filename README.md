@@ -49,7 +49,21 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PremThakareitm&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremThakareitm&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 My Contributed:
+
+</p>
+
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PremThakareitm/PremThakareitm/output/github-contribution-grid-snake.svg" />
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+  
+</div>
+<div align="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=PremThakareitm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
