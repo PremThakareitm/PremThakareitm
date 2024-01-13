@@ -65,5 +65,4 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premthakareitm" alt="premthakareitm" /></a> </p>
 
-<img align="center" alt="GIF" src="https://github.com/PremThakareitm/PremThakareitm/blob/main/gif/Flash%20Forward.gif" height="30%" width="30%"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
