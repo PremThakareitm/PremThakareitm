@@ -1,9 +1,11 @@
+<div align="center">
+<img src="https://github.com/PremThakareitm/PremThakareitm/blob/main/gif/Artist%20Creates%20The%20Best%20Japanese%20Pixel%20Art%20GIFs%20on%20Earth.gif" align="center"  height="250" style="width: 100%" width="1000"/>
+</div>
+
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Namaste+🙏+;+I'm+Prem+Thakare+👋;" /></h1>
 <h3 align="center">Aspiring Computer Science Engineer from India 🇮🇳</h3>
 <h1 align="center"></h1>
 <br/>
-
-<img align="right" alt="GIF" src="https://github.com/PremThakareitm/PremThakareitm/blob/main/gif/Man_Machine%20Animation.gif" height="30%" width="30%"/>
 
 <div align="left">
 
