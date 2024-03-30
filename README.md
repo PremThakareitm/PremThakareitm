@@ -12,7 +12,6 @@
 <h3 align="left">About Me 😎 :</h3>
 🎓 I’m currently Studying & Working at ITM Skills University & LetsUpgrade.<br>🤝 I’m looking to collaborate on projects based on Python and C++<br>🌱 I’m currently learning Python, C++, C and HTML.<br>🧐 I am also interested in Future tech, UIUX, Ai and DataScience.<br>👨‍💻 All of my projects are available at https://github.com/PremThakareitm<br>📫 How to reach me 2023.premt@isu.ac.in<br>⚡ I enjoy learning new things,playing games and watching movies.
 
-
 <h3 align="left">Socials 🌐 :</h3>
 <div align="center">
   <a href="https://www.instagram.com/prem.thakare_/" target="_blank">
@@ -28,7 +27,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
   </a>
 </div>
-
 
 <h3 align="left">Tech Stack 💻 :</h3>
 <p align="center">
