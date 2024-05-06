@@ -2,14 +2,21 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&family=Poetsen+One&display=swap" rel="stylesheet">
 
+<style>
+  fonti{
+    font-family:"Pixelify Sans";
+  }
+</style>
 <div align="center">
 <img src="https://github.com/PremThakareitm/PremThakareitm/blob/main/gif/Artist%20Creates%20The%20Best%20Japanese%20Pixel%20Art%20GIFs%20on%20Earth.gif" align="center"  height="250" style="width: 100%" width="1000"/>
 </div>
 
+<div class="fonti">
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Namaste+🙏+;+I'm+Prem+Thakare+👋;" /></h1>
-<h3 align="center" font-family="Pixelify Sans">Aspiring Computer Science Engineer from India 🇮🇳</h3>
+<h3 align="center">Aspiring Computer Science Engineer from India 🇮🇳</h3>
 <h1 align="center"></h1>
 <br/>
+</div>
 
 <div align="left">
 
