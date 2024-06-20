@@ -39,6 +39,7 @@
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
+    <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="icon" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60"/>
     <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60"/>
     <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
