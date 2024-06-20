@@ -38,8 +38,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" width="60" height="60" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="icon" width="60" height="60" />
     <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="icon" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="60" height="60"/>
