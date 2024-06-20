@@ -56,22 +56,19 @@
 
 <h3 align="left">GitHub Stats 📊 :</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremThakareitm&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=PremThakareitm&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PremThakareitm&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=PremThakareitm&bg_color=fff&color=FF9933&line=008000&point=007FFF&area=true&area_color=007FFF&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremThakareitm&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=00BFFF&text_color=FFFFFF&bg_color=00000000&icon_color=FFFFFF)<br/>
+![](https://github-readme-stats.vercel.app/api?username=PremThakareitm&theme=radical&hide_border=false&include_all_commits=true&count_private=false&title_color=00BFFF&text_color=FFFFFF&bg_color=00000000&icon_color=FFFFFF)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PremThakareitm&theme=radical&hide_border=false&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=00000000)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=PremThakareitm&bg_color=00000000&color=00BFFF&line=FFFFFF&point=00BFFF&area=true&area_color=FFFFFF&hide_border=false&title_color=00BFFF&text_color=FFFFFF)<br/>
 
 <h3 align="left">My Contributed 🔝 :</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PremThakareitm/PremThakareitm/output/github-contribution-grid-snake.svg" />
 
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-  
-</div>
+
 <div align="center">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premthakareitm" alt="premthakareitm" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premthakareitm&theme=darkhub&no-frame=true&column=7&title_color=00BFFF&text_color=FFFFFF&bg_color=00000000" alt="premthakareitm" /></a> </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=PremThakareitm&label=Profile%20views&theme=flag-india&hide&color=007FFF&style=round" alt="PremThakareitm" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=PremThakareitm&label=Profile%20views&theme=darkhub&color=00BFFF&style=round" alt="PremThakareitm" /> </p>
