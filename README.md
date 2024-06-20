@@ -2,7 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&family=Poetsen+One&display=swap" rel="stylesheet">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=110&section=header"/>
 
 
 <!-- <img src="https://github.com/PremThakareitm/PremThakareitm/blob/main/gif/Artist%20Creates%20The%20Best%20Japanese%20Pixel%20Art%20GIFs%20on%20Earth.gif" align="center" height="250" style="width: 100%" width="1000"/> -->
