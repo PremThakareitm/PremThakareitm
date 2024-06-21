@@ -67,7 +67,6 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PremThakareitm/PremThakareitm/output/github-contribution-grid-snake.svg" />
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
 <div align="center">
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
