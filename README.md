@@ -18,7 +18,7 @@
 <div align="left">
 
 ### About Me 😎 :
-🎓 I’m currently Studying & Working at ITM Skills University & LetsUpgrade.<br>🤝 I’m looking to collaborate on projects based on Python and C++<br>🌱 I’m currently learning Python, C++, C, HTML, CSS, Javascript and React.<br>🧐 I am also interested in Future tech, UIUX, AI and Data Science.<br>👨‍💻 All of my projects are available at [https://github.com/PremThakareitm](https://github.com/PremThakareitm)<br>📫 How to reach me: 2023.premt@isu.ac.in<br>⚡ I enjoy learning new things, playing games, and watching movies.
+🎓 I’m currently Studying & Working at ITM Skills University & LetsUpgrade.<br>🤝 I’m looking to collaborate on projects based on Python and C++<br>🌱 I’m currently learning Python, C++, C, HTML, CSS, Javascript, React and Java.<br>🧐 I am also interested in Future tech, UIUX, AI and Data Science.<br>👨‍💻 All of my projects are available at [https://github.com/PremThakareitm](https://github.com/PremThakareitm)<br>📫 How to reach me: 2023.premt@isu.ac.in<br>⚡ I enjoy learning new things, playing games, and watching movies.
 
 ### Socials 🌐 :
 <div align="center">
