@@ -48,7 +48,7 @@
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="60" height="60"/>
     <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="60" height="60" />
-    <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" alt="icon" width="60" height="60"/>
+    <img src="[https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY](https://www.svgrepo.com/show/303388/java-4-logo.svg)" alt="icon" width="60" height="60"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="icon" width="60" height="60"/>
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="60" height="60">
   </a>
