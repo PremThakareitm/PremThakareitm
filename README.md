@@ -43,7 +43,7 @@
   <a href="https://skillicons.dev">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="60" height="60" />
+    <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="60" height="60" />
     <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="JavaScript" width="60" height="60" />
