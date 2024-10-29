@@ -2,7 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=110&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=header"/>
 
 <div class="fonti" style="font-family: 'Orbitron', sans-serif; color: #FFFFFF;">
     <h1 align="center">
@@ -79,4 +79,4 @@
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&fontSize=45&fontColor=d2a8ff&color=gradient&text=Thank%20You%20for%20Visiting!&reversal=false&section=footer&animation=twinkling&textBg=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=gradient&color=39FF14&text=Thank%20You%20for%20Visiting!&reversal=false&section=footer&animation=twinkling&textBg=false" width="100%" />
