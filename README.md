@@ -6,7 +6,7 @@
 
 <div class="fonti" style="font-family: 'Orbitron', sans-serif; color: #FFFFFF;">
     <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=D2A8FF&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Namaste,+I'm+Prem+Thakare+🤖;Aspiring+Computer+Science+Engineer;Studying+at+ITM+Skills+University,+Navi+Mumbai;Welcome!" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=blueviolet&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Namaste,+I'm+Prem+Thakare+🤖;Aspiring+Computer+Science+Engineer;Studying+at+ITM+Skills+University,+Navi+Mumbai;Welcome!" />
     </h1>
     <h3 align="center" style="color: #d2a8ff;">Aspiring Computer Science Engineer from India 🇮🇳</h3>
 </div>
@@ -75,8 +75,8 @@
     </a>
   </p>
   <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=PremThakareitm&label=Profile%20views&theme=radical&color=39FF14&style=round" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=PremThakareitm&label=Profile%20views&theme=radical&color=blueviolet&style=round" alt="Profile Views">
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=gradient&color=39FF14&text=Thank%20You%20for%20Visiting!&reversal=false&section=footer&animation=twinkling&textBg=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=blueviolet&color=39FF14&text=Thank%20You%20for%20Visiting!&reversal=false&section=footer&animation=twinkling&textBg=false" width="100%" />
