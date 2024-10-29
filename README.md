@@ -41,17 +41,17 @@
 ### Tech Stack 💻 :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
-    <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="60" height="60" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="60" height="60" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="60" height="60" />
-    <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="JavaScript" width="60" height="60" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="GitHub" width="60" height="60"/>
-    <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="Scratch" width="60" height="60" />
-    <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="60" height="60"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="60" height="60"/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60"/>
+    <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="Scratch" width="60" height="60" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60"/>
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" alt="Appsheet" width="60" height="60">
   </a>
 </p>
