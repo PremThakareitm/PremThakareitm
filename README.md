@@ -15,8 +15,8 @@
 
 ### About Me 😎 :
 🎓 I am currently studying and working at ITM Skills University and LetsUpgrade.<br>
-🤝 I am looking to collaborate on projects focused on Python and C++.<br>
-🌱 I am currently learning Python, C++, C, HTML, CSS, JavaScript, React, and Java.<br>
+🤝 I am looking to collaborate on projects focused on Python, C++, Java and front-end languages<br>
+🌱 I'm currently learning to become a full-stack developer.<br>
 🧐 I am also interested in future tech, UI/UX design, AI, and data science.<br>
 👨‍💻 All of my projects are available on [GitHub](https://github.com/PremThakareitm).<br>
 📫 You can reach me at: 2023.premt@isu.ac.in<br>
