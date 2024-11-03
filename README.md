@@ -64,9 +64,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PremThakareitm&bg_color=2A2A2A&color=39FF14&line=E0E0E0&point=39FF14&area=true&area_color=E0E0E0&hide_border=false&title_color=39FF14&text_color=E0E0E0" alt="GitHub Activity Graph"><br/>
 </div>
 
-### My Contributions 🔝 :
+<!--### My Contributions 🔝 :
 <br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PremThakareitm/PremThakareitm/output/github-contribution-grid-snake.svg" />
+-->
 
 <div align="center">
 <!--   <p align="center">
