@@ -69,11 +69,11 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PremThakareitm/PremThakareitm/output/github-contribution-grid-snake.svg" />
 
 <div align="center">
-  <p align="center">
+<!--   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=premthakareitm&theme=radical&no-frame=true&column=7&title_color=d2a8ff&text_color=E0E0E0&bg_color=2A2A2A" alt="GitHub Profile Trophy">
     </a>
-  </p>
+  </p> -->
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=PremThakareitm&label=Profile%20views&theme=radical&color=4066E0&style=round" alt="Profile Views">
   </p>
