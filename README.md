@@ -1,153 +1,120 @@
-# 👋 Prem Thakare
+<div align="center">
 
-> **Software Engineer • Full Stack Developer • AI Product Builder**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1120,50:2563EB,100:7C3AED&fontColor=FFFFFF&fontSize=45&animation=fadeIn"/>
+
+# 👋 Hello, I'm Prem Thakare
+
+### Full Stack Developer • AI Enthusiast • Cloud Explorer • UI/UX Designer
 
 *"Building technology that grows with people."*
 
-------------------------------------------------------------------------
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+AI+Powered+Experiences;Creating+Beautiful+Digital+Products;Full+Stack+Developer;Always+Learning+Something+New;Welcome+to+My+Digital+Universe"/>
 
-## 🌌 About
+</div>
 
-I build modern digital products that combine beautiful user experiences,
-scalable engineering, artificial intelligence, and cloud technologies.
-Currently contributing to **CampusPe**, an AI-powered placement platform
-where I develop full-stack features, AI integrations, cloud deployments,
-and responsive user interfaces.
+---
 
-Inspired by **science fiction**, **strategic thinking through chess**,
-and the balance between **technology and nature**, I enjoy creating
-products that feel immersive, intuitive, and meaningful.
+# 🌌 About Me
 
-------------------------------------------------------------------------
+I'm a **Full Stack Developer** passionate about building products that combine **beautiful user experiences**, **AI**, and **modern web technologies**.
 
-## 🚀 Current Mission
+Currently working on **CampusPe**, an AI-powered Placement Management Platform where I develop scalable applications, AI integrations, cloud deployments, and responsive interfaces.
 
--   💼 Full Stack Developer Intern @ Edufu Technologies (CampusPe)
--   🤖 Building AI-powered web experiences
--   ☁️ Azure Cloud & GitHub Actions
--   🎨 Premium UI/UX & Product Design
--   📚 System Design & Scalable Architecture
+My interests go beyond coding—I enjoy **science fiction**, **strategic thinking through chess**, **cinematic storytelling**, and exploring how **technology can coexist with nature**.
 
-------------------------------------------------------------------------
+---
 
-## 🛰️ Mission Log
+# 🚀 Current Mission
 
-### Edufu Technologies --- Full Stack Developer Intern *(2025--Present)*
+- 💼 Full Stack Developer @ Edufu Technologies
+- 🤖 Building AI-powered products
+- ☁️ Exploring Azure & Cloud Architecture
+- 🎨 Creating premium user experiences
+- 📚 Learning System Design & Scalable Applications
+- 🌱 Continuously improving every day
 
--   Developed CampusPe AI Placement Platform
--   Built AI Resume Builder using OpenAI & Claude APIs
--   Integrated WhatsApp Resume Builder with OTP verification
--   Azure deployment using GitHub Actions
--   Collaborated with UI/UX teams
+---
 
-### LetsUpgrade --- Software Development Intern *(2023--2024)*
+# ⚡ Tech Arsenal
 
--   Responsive web applications
--   UI/UX collaboration
--   Frontend engineering
--   Digital product improvements
+<p align="center">
 
-------------------------------------------------------------------------
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,tailwind,python,cpp,azure,aws,git,github,figma,flutter,vscode&perline=9"/>
 
-## 🧠 Tech Arsenal
+</p>
 
-### Frontend
+---
 
-React • Next.js • JavaScript • TypeScript • Tailwind CSS • HTML • CSS •
-Flutter
+# 🎯 Featured Projects
 
-### Backend
+✨ CampusPe — AI Placement Management Platform
 
-Node.js • Express.js • REST APIs • PHP
+✨ MICEKart — Corporate Travel & Event Platform
 
-### Database
+✨ Shivai Masale — Business Website
 
-MongoDB • SQL
+✨ Nakoda Overseas — SEO Optimized Website
 
-### AI
+✨ GrabOn — Food Delivery Platform
 
-OpenAI API • Claude API • Prompt Engineering
+✨ Livspace Clone — Interior Design Platform
 
-### Cloud & DevOps
+---
 
-Azure • AWS • GitHub • GitHub Actions • Bunny.net
+# 🌍 Connect With Me
 
-### Testing
+<p align="center">
 
-Selenium • Cypress • Jenkins • JMeter
+<a href="https://www.linkedin.com/in/premthakare">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-### Design
+<a href="mailto:2023.premt@isu.ac.in">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-Figma • UI/UX • Product Design
+<a href="https://github.com/PremThakareitm">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-------------------------------------------------------------------------
+</p>
 
-## 📂 Featured Case Studies
+---
 
-### 🚀 CampusPe
+# 📈 GitHub Analytics
 
-AI-powered placement ecosystem with resume builder, recruiter
-dashboards, WhatsApp integration, and Azure deployment.
+<p align="center">
 
-### 🌍 MICEKart
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PremThakareitm&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Corporate travel & event management platform focused on responsive UX
-and SEO.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremThakareitm&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🌶️ Shivai Masale
+</p>
 
-Modern business website with responsive design and branding.
+<p align="center">
 
-### 🌾 Nakoda Overseas
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PremThakareitm&theme=tokyonight&hide_border=true"/>
 
-SEO-focused export company website.
+</p>
 
-### 🏡 Livspace Clone
+<p align="center">
 
-Interior design platform with full-stack architecture.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PremThakareitm&theme=tokyo-night&hide_border=true"/>
 
-### 🍔 GrabOn
+</p>
 
-Food delivery application with real-time interactions.
+---
 
-------------------------------------------------------------------------
+# 💭 Philosophy
 
-## 🌐 Connect
+> **"Technology is at its best when it feels effortless, inspires curiosity, and grows in harmony with people."**
 
--   LinkedIn: https://linkedin.com/in/premthakare
--   GitHub: https://github.com/PremThakareitm
--   Email: 2023.premt@isu.ac.in
+---
 
-------------------------------------------------------------------------
+<p align="center">
 
-## 📊 GitHub Stats
+<img src="https://komarev.com/ghpvc/?username=PremThakareitm&style=for-the-badge&color=2563EB"/>
 
-Replace this section with your preferred GitHub Readme Stats widgets: -
-github-readme-stats - github-readme-streak-stats -
-github-readme-activity-graph
+</p>
 
-------------------------------------------------------------------------
-
-## 🎬 Beyond Code
-
--   🎥 Science Fiction
--   ♟️ Chess
--   🌿 Nature
--   🎮 Gaming
--   ✨ Product Design
--   🚀 Emerging Technology
-
-------------------------------------------------------------------------
-
-## 💭 Philosophy
-
-> Technology should feel effortless, inspire curiosity, and grow in
-> harmony with people.
-
-------------------------------------------------------------------------
-
-# END OF TRANSMISSION
-
-Thanks for exploring my digital ecosystem.
-
-**--- Prem Thakare**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0B1120,50:2563EB,100:7C3AED"/>
